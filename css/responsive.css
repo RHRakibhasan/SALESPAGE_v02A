@@ -1,0 +1,583 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) { 
+    .header-bg { 
+        background-size: contain; 
+    }
+    
+    .buy-abd-hold .gray-box {
+        padding: 54px 10px;
+    }  
+    .whait-bg-section {
+        padding:30px;
+    }
+    .gray-bg-section {
+        background: #F5F9F9;
+        padding: 30px;
+    }
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) { 
+    .header-bg { 
+        background-size: contain; 
+        padding-top: 50px;
+    }
+    .header-bottom-card {
+        padding: 10px; 
+        width: auto;  
+        margin-top: 0;
+    }
+    .header-card {
+        margin-top: -370px; 
+    }
+    .header-card {
+        padding: 30px;
+    }
+    .content-wapper {
+        padding: 0;
+    }
+    .one-stock-img {
+        text-align: center;
+    }
+    .whait-bg-section {
+        padding: 30px 30px;
+    }
+    .latter-box { 
+        background-size: contain;
+        padding: 0 40px;
+    }
+    .green-box-transparent {
+        padding: 50px 115px; 
+    }
+    p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .gray-bg-section { 
+        padding: 30px;
+    } 
+    .green-box-3 { 
+        padding: 80px 20px 80px 338px; 
+    } 
+    .gray-box {
+        padding: 20px; 
+    }
+    .love-cntent {
+        font-size: 20px; 
+        line-height: 1.6;
+    }
+    .section-title h3 {
+        font-size: 30px;
+    } 
+    .the-36-month-content .green-box-2 p {
+        font-size: 17px;
+        line-height: 22px;
+        padding-left: 221px;
+    }
+    .green-box-p {
+        text-align: center;
+    }
+    .yallo-box ul li {
+        font-size: 19px;
+        margin-bottom: 13px;
+    }
+    .buy-abd-hold .gray-box p {
+        font-size: 16px; 
+        line-height: 23px;
+        margin-left: 240px;
+    }
+    .buy-abd-hold .gray-box .buy-and-hold-img img { 
+        max-height: 303px;
+    }
+    .buy-abd-hold {
+        margin-bottom: 30px;
+    }
+    .inside-you-find-area ul li {
+        font-size: 16px; 
+        margin-bottom: 14px;
+    }
+    .hunter-list ul li {
+        font-size: 16px; 
+        margin-bottom: 15px;
+    }
+    .green-box.earn-box p {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .tim-box {  
+        padding:10px; 
+        margin-bottom: 30px;
+    }
+    .green-box p {
+        margin-bottom: 0;
+        font-size: 16px;
+    }
+    .green-box h4 {
+        margin-bottom: 0;
+        font-size: 25px;
+    }
+    .header-bottom-card h6 { 
+        margin-bottom: 15px; 
+    }
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) { 
+    .header-content h1 { 
+        font-size: 45px;
+    }
+    .header-bg { 
+        background-size: contain;
+        padding-top: 35px;
+        height: 499px; 
+    }
+    .header-bottom-card {
+        margin-top: 0;
+        margin: 25px 0 15px 0;
+    }
+    .header-card {
+        padding: 0 30px;
+        margin-top: -230px;
+    } 
+    .gray-bg-section { 
+        padding: 30px;
+    }
+    .one-stock-img {
+        text-align: center;
+    }
+    .one-stock-img img {
+        height: 212px;
+        margin-top: 35px;
+    }
+    .one-stock-content{
+        margin:0;
+    }
+    .green-box p {
+        margin-bottom: 0;
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .green-box h4 { 
+        margin-bottom: 0;
+    }
+    .green-box-2 p { 
+        font-size: 16px; 
+        letter-spacing: 0px;
+        line-height: 27px;
+    }
+    .green-box-2 p a { 
+        margin-bottom: 0;
+        font-size: 17px; 
+        letter-spacing: 1px;
+        line-height: 27px; 
+    }
+    .green-box-transparent {
+        padding: 50px; 
+    }
+    h4 {
+        font-size: 23px;
+    }
+    .whait-bg-section {
+        padding: 30px;
+        margin-bottom: 50px;
+    }
+    .common-pera.pt-30 {
+        margin-top: -20px;
+        margin-bottom: 0;
+    }
+    .rest-area-content {
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .green-box-3 {
+        padding: 50px 30px;
+    }
+    .green-box-3 img.fighter-img { 
+        display: none;
+    }
+    .fighter-content { 
+        margin-top: 0;
+    }
+    .latter-box p {
+        line-height: 27px;
+        font-size: 13px;
+    }  
+    .CONE-content p {
+        margin-top: 30px;
+        line-height: 23px;
+    }
+    .gray-box {
+        padding: 39px 0 37px 25px; 
+        margin:20px 0;
+    }
+    .light-yello-box { 
+        min-height: auto;
+    }
+    .balance-box {
+        font-size: 30px; 
+    }
+    .love-cntent {
+        font-size: 15px; 
+    }
+    .the-36-month-img { 
+        display: none; 
+    }
+    .the-36-month-content .green-box-2 {
+        border-radius: 10px; 
+    }
+    .the-36-month-content .green-box-2 p { 
+        margin-bottom: 0;
+    }
+    .yallo-box ul li {
+        font-size: 16px;
+        margin-bottom: 10px;
+        float: left;
+    }
+    .books-area {
+        padding: 14px;  
+        margin: 20px 0;
+    }
+    .buy-abd-hold {
+        margin-bottom: 0;
+    }
+    .yallo-box {
+        min-height: auto;
+    }
+    .buy-abd-hold .gray-box .buy-and-hold-img img  {
+        display: none; 
+    }
+    .buy-abd-hold .gray-box p {
+        font-size: 16px; 
+        line-height: 24px;
+        margin-left: 0;
+    }
+    .buy-abd-hold .gray-box {
+        border-radius: 10px; 
+        padding: 26px;
+    }
+    .ipad-image {
+        text-align: center;
+    }
+    .tim-btn { 
+        height: 65px; 
+        line-height: 65px; 
+        padding: 0 68px 0 37px;
+    }
+    .tim-btn::before { 
+        height: 60px;
+        width: 60px; 
+        line-height: 60px; 
+        font-size: 40px; 
+    }
+    .tim-img-box img {
+        max-height: 200px;
+    }
+    .tim-area-content p {
+        font-size: 12px;
+        text-align: left;
+        line-height: 16px;
+    }
+    .tim-area-content {
+        margin: 0;
+        padding: 15px;
+    }
+    .hunter-list ul li {
+        font-size: 16px; 
+    }
+    .green-box.earn-box p {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .tim-box {
+        background-size: contain; 
+        padding: 0;
+    }
+    .footer-peragraph p {
+        font-size: 13px;
+    }
+    .section-title h3 {
+        padding: 20px 20px;
+        height: auto;
+        font-size: 25px;
+    }
+    p { 
+        font-size: 15px; 
+        line-height: 30px; 
+    }
+    .content-wapper {
+        padding-bottom: 30px;
+    }
+    .one-stock-content p {
+        font-size: 15px; 
+        margin-bottom: 0;
+    }
+    .ipad-image {
+        padding-right: 0;
+    }
+   
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) { 
+    .ipad-image {
+        padding-right: 0;
+    }
+    .header-bg {
+        padding-top: 30px;
+        height: 327px;
+        background-position: left bottom;
+    }
+    .container-padding {
+        padding: 0 15px;
+    }
+    .content-wapper {
+        padding: 80px 0 30px 0;
+    }
+    .header-card {
+        padding: 0 15px;
+        margin-top: -80px;
+    }
+    .section-title h3 {
+        height: auto;
+        font-size: 24px; 
+        padding: 30px 15px;
+    }
+    .gray-bg-section { 
+        padding: 30px 15px;
+    }
+    .whait-bg-section { 
+        padding: 30px 15px;
+    }
+    .gray-box {
+        padding: 30px 15px; 
+        margin-bottom: 30px;
+    }
+    .green-box {
+        padding: 30px 15px; 
+    }
+    .green-box-2 {
+        padding: 30px 15px; 
+    }
+    .jack-box { 
+        padding: 30px 15px; 
+    }
+    .retirement-box {
+        padding: 30px 15px; 
+    }
+    .cone-box {
+        padding: 30px 0px;
+        margin: 0;
+    }
+    .yallo-box {
+        padding: 30px 15px; 
+        min-height: auto;
+    }
+    .light-yello-box {
+        padding: 30px 15px; 
+        min-height: auto;
+    }
+    .footer-peragraph {
+        padding: 0 15px;
+    }
+    /* sections paddings ------------- */
+    .green-box-transparent {
+        padding:0; 
+    }
+    .header-content h1 { 
+        font-size: 34px;
+    }
+    .header-content h2 { 
+        font-size: 19px; 
+        margin: 20px 0;
+    }
+    .header-bottom-card {
+        padding: 30px 15px;
+        margin-bottom: -50px;
+        margin-top: 80px;
+    }
+    .header-bottom-card p { 
+      min-height: auto;
+    }
+    .one-stock-content h4 { 
+        margin-bottom: 15px;
+        padding-right: 0; 
+    }
+    .one-stock-content p { 
+        margin-bottom: 0;
+    }
+    .parpul-bg-content {
+        margin: 0;
+    }
+    .parpul-bg-content h4 { 
+        padding: 7px 2px; 
+        margin-bottom: 30px; 
+        text-align: center;
+    }
+    .green-box h4 { 
+        font-size: 23px;
+    }
+    .green-box p {
+        margin-bottom: 0;
+        font-size: 20px;
+    }
+    h4{
+        font-size: 25px;
+    }
+    .green-box-2 p {
+        margin-bottom: 0px;
+        font-size: 20px; 
+        letter-spacing: 2px; 
+    }
+    .green-box-2 p a { 
+        margin-bottom: 0;
+        font-size: 25px; 
+        letter-spacing: 2px; 
+    }
+    .green-box-transparent {
+        padding: 30px 15px;
+    }
+    .green-box-3 img.fighter-img {
+        position: relative;
+        width: auto;
+        height: auto;
+        left: 0;
+        right: 0;
+    }
+    .green-box-3 { 
+        padding: 30px  20px; 
+    }
+    .latter-box { 
+        padding: 30px 15px;
+        border: 10px solid;
+        border-image: url(../img/bg/border.png) 44 / 1 / 0; 
+        border-image-repeat: round;
+    }
+    .latter-box h4 { 
+        margin-bottom: 10px;
+        font-size: 23px;
+    }
+    .latter-box p { 
+        margin-bottom: 10px;
+    }
+    .latter-box h3 { 
+        font-size: 25px;
+    }
+    .tesla-img-2 {
+        margin: 3px 0;
+    }
+    .bloomberg-img {
+        margin: 20px 0;
+    }
+    .OAK-img {
+        margin: 0 0 20px 0;
+    }
+    .OAK-content {
+        margin-bottom: 20px;
+    }
+    .SA-article-snip-img {
+        margin: 20px 0;
+    }
+    .CONE-img {
+        margin: 0 0 20px 0;
+    }
+    .income-heading h4 { 
+        font-size: 25px;
+        margin: 0px 0; 
+    }
+    .love-cntent {
+        font-size: 20px; 
+        line-height: 33px;
+    }
+    .green-box-2 {
+        padding: 30px 15px;
+        width: 94%; 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 20px auto;
+    }
+    .the-36-month-img {
+        position: relative;
+        top: 0;
+        left: 0;
+        right: 0;
+    }.the-36-month-content .green-box-2 {
+        border-radius: 10px; 
+        margin: 0 auto;
+    }
+    .the-36-month-content .green-box-2 p {
+        font-size: 20px;
+        line-height: 33px;
+    }
+    .yallo-box ul li { 
+        font-size: 20px; 
+        margin-bottom: 18px;
+        line-height: 27px;
+    }
+    .buy-abd-hold .gray-box .buy-and-hold-img img {
+        position: relative;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .buy-abd-hold .gray-box p {
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 0px;
+        line-height: 30px;
+        margin-left: 5px;
+        max-height: 500px;
+    }
+    .buy-abd-hold .gray-box {
+        border-radius: 10px;
+        padding: 30px 15px;
+    }
+    .gray-box ul {
+        margin-left: 5px;
+    }
+    .books-area {
+        padding: 30px 15px;  
+    }
+    .green-box.earn-box-2 {
+        padding: 20px 15px;
+    }
+    .tim-box {
+        border: 18px solid;
+        border-image: url(../img/bg/tim-bg-Recovered.png) 55 / 1 / 0;
+        border-image-repeat: round; 
+        padding: 30px 15px;
+        margin: 30px auto;
+        width: 93%;
+    }
+    .tim-btn {
+        display: block;   
+        padding: 0 74px 0 0; 
+    }
+    .tim-area-content p {
+        line-height: 31px;
+        margin-bottom: -55px;
+    }
+    .footer-peragraph p { 
+        line-height: 32px;
+    }
+    .green-box-p p { 
+        letter-spacing: 3px;
+    }
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 350px) and (max-width: 767px) { 
+    
+    .latter-box p {
+        line-height: 45px;
+        margin-bottom: 10px;
+    }
+    .tim-area-content p {
+        line-height: 41px;
+        margin-bottom: -55px;
+    } 
+} 
